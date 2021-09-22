@@ -1,0 +1,77 @@
+.head {
+    background-color: #dcdcdc;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.telNumbers {
+    font-size: x-large;
+    align-self: center;
+}
+
+.companyName {
+    justify-content: flex-start;
+    align-self: center;
+}
+
+.topNavigation {
+    background-color: #777777;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+article {
+    margin: 20px;
+    font-size: xx-large;
+}
+
+.description {
+    margin: 50px;
+    align-items: center;
+    flex-basis: 70%;
+}
+
+.news {
+    background-color: #777777;
+    align-content: space-between;
+    margin: 50px;
+    width: 30%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    font-size: x-small;
+    background-color: #777777;
+    align-content: center;
+    align-items: center;
+}
+
+.image {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    color: white;
+}
+
+
+
+.new {
+    margin: 20px;
+}
+.new1 {
+    align-items: center;
+}
