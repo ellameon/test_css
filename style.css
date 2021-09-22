@@ -1,8 +1,10 @@
+
 .head {
     background-color: #dcdcdc;
     display: flex;
     justify-content: space-around;
     align-self: center;
+    height: 70px;
 }
 
 .telNumbers {
@@ -23,6 +25,9 @@
     align-items: center;
 }
 
+.wall {
+    width: 50%;
+}
 .main {
     display: flex;
     justify-content: space-between;
@@ -55,12 +60,15 @@ footer {
     background-color: #777777;
     align-content: center;
     align-items: center;
+    height: 80px;
+
 }
 
 .image {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border: 5px #777777;
 }
 
 a {
